@@ -1,5 +1,3 @@
-# Aadhar-Service-Demand-and-Operational-Analytics
-
 # Aadhaar Service Demand and Operational Analytics
 
 ![UIDAI](https://img.shields.io/badge/UIDAI-Hackathon-blue) ![Python](https://img.shields.io/badge/Python-3.10%2B-green) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
